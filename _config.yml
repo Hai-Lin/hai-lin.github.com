@@ -12,6 +12,7 @@ description:  'This is <a href="/about">Hai Lin</a>, a developer in New York.'
 url:          http://hai-lin.com
 baseurl:          '/'
 paginate:         5
+timezone:         America/New York
 
 author:
   name:       'Hai Lin'
@@ -23,3 +24,6 @@ version:          1.0.0
 
 github:
   repo:          https://github.com/Hai-Lin/hai-lin.github.com
+
+# Tracking
+google_analytics: UA-28338758-3
