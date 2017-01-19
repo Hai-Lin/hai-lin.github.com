@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:     true
 
 # Permalinks
@@ -8,7 +7,7 @@ permalink:        pretty
 # Setup
 title:       Hai Lin
 tagline:      'blog'
-description:  'This is <a href="/about">Hai Lin</a>, a developer in New York.'
+description:  'This is <a href="/about">Hai Lin</a>, a developer in Santa Monica.'
 url:          http://hai-lin.com
 baseurl:          '/'
 paginate:         5
