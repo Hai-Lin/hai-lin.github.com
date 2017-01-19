@@ -3,11 +3,10 @@ layout: page
 title: About Me
 ---
 
-This is Hai, a programmer always building things. Now I live in New York and work at <a href ='http://www.theladders.com'  target="_blank">TheLadders.com</a> as a <a href = 'http://dev.theladders.com/ourteam/' target='_blank'>software engineer</a>. I graduated from <a href='http://www.columbia.edu/' target='_blank'> Columbia University</a> with a master's degree in computer science in 2012. Before that, I studied physics in <a href='http://www2012.xmu.edu.cn/english/index.asp' target='_blank'>Xiamen University</a>. 
+This is Hai, a programmer write code for a living and for fun. Now I work as a software engineer in big data platform team at <a href='http://www.hulu.com/'> Hulu</a>. Before that I was a software engineer at <a href='https://www.theladders.com/'> TheLadders.com</a>. I graduated from <a href='http://www.columbia.edu/' target='_blank'> Columbia University</a> with a master's degree in computer science in 2012. 
 
-I code in Ruby (mostly Rails), C++ (Computer Graphics), Objective-C (iOS and Mac), Java (OK,
-who doesn't), Javascript (both in Node and browsers), also a bit of go and <a href='https://github.com/Hai-Lin/etudes-for-erlang' target='_blank'>Erlang</a> (for the sake of concurrency).
- 
+I deal with couple of terabyte of data on daily basis with Kafka, Spark, Hadoop and other big data tools. My habbit is programming leaguane and distrubuted system.
+
 Tweet me <a href='https://twitter.com/_hai_lin'>@_hai_lin</a>, read my code on
 <a href='https://github.com/Hai-Lin'>GitHub</a>, and find me on
 <a href='http://www.linkedin.com/in/linhai'>LinkedIn</a>.

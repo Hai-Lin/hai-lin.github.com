@@ -12,7 +12,7 @@ description:  'This is <a href="/about">Hai Lin</a>, a developer in New York.'
 url:          http://hai-lin.com
 baseurl:          '/'
 paginate:         5
-timezone:         America/New York
+timezone:        US/Pacific
 
 author:
   name:       'Hai Lin'
@@ -27,3 +27,7 @@ github:
 
 # Tracking
 google_analytics: UA-28338758-3
+
+
+# Gems
+gems: [jekyll-paginate]
