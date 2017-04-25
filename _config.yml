@@ -6,8 +6,8 @@ permalink:        pretty
 
 # Setup
 title:       Hai Lin
-tagline:      'blog'
-description:  'This is <a href="/about">Hai Lin</a>, a developer in Santa Monica.'
+tagline:      'Replicate Everything'
+description:  'This is <a href="/about">Hai Lin</a>, a soccer fan who like working on distrubuted system.'
 url:          http://hai-lin.com
 baseurl:          '/'
 paginate:         5

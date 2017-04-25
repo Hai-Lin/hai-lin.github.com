@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-This is Hai, a programmer write code for a living and for fun. Now I work as a software engineer in big data platform team at <a href='http://www.hulu.com/'> Hulu</a>. Before that I was a software engineer at <a href='https://www.theladders.com/'> TheLadders.com</a>. I graduated from <a href='http://www.columbia.edu/' target='_blank'> Columbia University</a> with a master's degree in computer science in 2012. 
+This is Hai, a programmer write code for a living and for fun. Now I work as a software engineer in big data platform team at <a href='http://www.hulu.com/'> Hulu</a>. 
 
 I deal with couple of terabyte of data on daily basis with Kafka, Spark, Hadoop and other big data tools. My habbit is programming leaguane and distrubuted system.
 
